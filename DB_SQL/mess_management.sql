@@ -254,12 +254,8 @@ CREATE TABLE `manager` (
 --
 
 INSERT INTO `manager` (`Sl_no`, `user_name`, `email`, `password`, `phone`, `room_no`, `Entry_Date`) VALUES
-(1, 'Boyiddhanath ', 'boyiddha@gmail.com', '36565', '17835734388', '302', '2022-11-01'),
-(2, 'sujon', 'sujon@gmail.com', '90521', '27322222', '300', '2022-11-08'),
-(3, 'karen', 'karen@gmail.com', '535632', '362084', '331', '2022-11-08'),
-(4, 'antor', 'aroy@gmail.com', '356955', '01846093644', '331', '2022-11-09'),
-(5, 'vudeb', 'vudeb@gmail.com', '389421', '0187384210', '402', '2022-11-09'),
-(6, 'turin', 'turin@gmail.com', '988762098', '08762000', '112', '2022-11-10');
+(1, 'Boyiddhanath ', 'boyiddha@gmail.com', '36565', '17835734388', '302', '2025-03-24'),
+(3, 'karen', 'karen@gmail.com', '535632', '362084', '331', '2025-03-24'),
 
 -- --------------------------------------------------------
 

@@ -412,8 +412,8 @@
 				<thead >
 					<tr >
 						<th>#</th>
-						<th>বর্ণবিন্যাস </th>
-						<th>কার্যকরী তারিখ</th>
+						<th>Description</th>
+						<th>Effective Date</th>
 						<th>Remove</th>
 					</tr>
 				</thead>

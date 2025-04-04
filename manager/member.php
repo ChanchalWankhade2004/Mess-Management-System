@@ -414,14 +414,9 @@
 		</div>
 	</div>
 	<div style="margin:0;padding:0;background-color:#aafaaa;height:5px;"></div>
-	<div class="footer">
-		Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-	</div>
-	  
-		  
-
-
-
+	<div class="footer" style="background-color:#f4f5df;color:black; display:flex; justify-content:center;align-items:center">
+	Copyright &copy; Mess Management 2025<br> 
+</div>	
 	<script>
 		// Script to open and close sidebar
 		function w3_open() {

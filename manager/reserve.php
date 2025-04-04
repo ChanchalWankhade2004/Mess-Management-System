@@ -547,7 +547,7 @@
 											<td><?php echo$rows['date']; ?></td> &nbsp
 											 
 											<td style="text-align:center;">
-												<?php echo$rows['amount'] ?> &#x09F3</td>
+												<?php echo$rows['amount'] ?> &#8377</td>
 											</td>
 											<td ><button class="btn2" style="background:#79f27b;border:none;border-radisu:5px;"><a style="text-decoration:none;" href="updateDeposit.php?update=<?php echo$rows['phone']; ?>&name=<?php echo$rows['name'] ;?>&amnt=<?php echo$rows['amount'] ;?>">Add Money</a></button></td>
 											
@@ -565,11 +565,10 @@
 					</table>
 				
 				</form>
-				
-				<div class="footer">
-					Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-				</div>
-				
+				<div class="footer" style="background-color:#f4f5df;color:black; display:flex; justify-content:center;align-items:center">
+	Copyright &copy; Mess Management 2025<br> 
+</div>	
+
     <?php	    
         	} ?>
 		

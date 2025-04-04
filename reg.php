@@ -193,7 +193,7 @@
 		<a href="index.php" ><img width="70px" height="70px" src="img/logo.jpg"></a>
 		</div>
 		<div class="mid col-6">
-			<b style="color:green;">Automated Mess Management System</b>
+			<b style="color:green;">Mess Management System</b>
 		</div>
 		<div class=" right col-3">
 			<a href="reg.php" style="color:red;text-decoration:none;" > <i class="fa fa-user"></i> Registration</a>	

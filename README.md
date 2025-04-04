@@ -15,47 +15,45 @@ Automated Mess Management is a web-based Management System for Students, Bachelo
 
 3. Manager List
 
-![Image](https://github.com/user-attachments/assets/893d2182-e747-43f7-8ab9-95201876d472)
+![Image](https://github.com/user-attachments/assets/3604baba-1b8d-48f3-a0ba-3d333d2225b9)
 
 4.Archived Files
 
-![image](https://user-images.githubusercontent.com/93768389/214531068-2aea96f9-75ce-47ce-aa7e-6cb0f0c02197.png)
+![Image](https://github.com/user-attachments/assets/e0180692-61c6-4fb4-9408-007fa66d9525)
 
 5.Manager Home Page
 
-![image](https://user-images.githubusercontent.com/93768389/214531136-dcca0821-9b68-4c44-93b2-0144ee6551c0.png)
+![Image](https://github.com/user-attachments/assets/c50c148c-fd0c-41fa-a537-a79344624f83)
 
 6.Daily Meal Attendance Page
 
-![image](https://user-images.githubusercontent.com/93768389/214531742-1c0af63a-8eea-42d0-aba7-777f50e29c9b.png)
+![Image](https://github.com/user-attachments/assets/b83fc875-01cd-4f7c-af7b-bb42cebc270c)
 
 7.Update Attendance Page 
 
-![image](https://user-images.githubusercontent.com/93768389/214531813-54df626d-f447-46dc-bb8d-b011de341986.png)
+![Image](https://github.com/user-attachments/assets/729a0157-7a37-4a25-ad74-751c7a5acd39)
 
 8.Deposit Amount
 
-![image](https://user-images.githubusercontent.com/93768389/214531906-85bdd90c-b5f0-45f7-9fd9-466144a30b98.png)
+![Image](https://github.com/user-attachments/assets/1420bedd-7a6d-4ad6-a299-24284acb34e0)
 
 9.Chat History
 
-![image](https://user-images.githubusercontent.com/93768389/214532017-6b434f8a-7bd4-4855-8a33-b5db141f311b.png)
+![Image](https://github.com/user-attachments/assets/92e3f06e-ae53-433c-ba96-e5c9a2fdd4ee)
 
 10.Notice Board
 
-![image](https://user-images.githubusercontent.com/93768389/214532057-c952953d-4918-4c07-aaf5-6188a09aebdc.png)
+![Image](https://github.com/user-attachments/assets/16d26b01-61e9-4796-97dd-3670c0721e9a)
 
 11.Monthly Transaction Page (Monthly Overall Calculation)
 
-![image](https://user-images.githubusercontent.com/93768389/214532147-3a02320a-130a-4ebd-a096-9485bacb1fef.png)
+![Image](https://github.com/user-attachments/assets/df35da11-defd-4fec-9891-061eab434a8b)
 
 12.Member Home Page
 
-![image](https://user-images.githubusercontent.com/93768389/214532259-9502a4cd-2fc1-4aff-a35d-2083fe90f4ce.png)
+![Image](https://github.com/user-attachments/assets/43fe1654-8e5f-4915-8a63-22fbceb11173)
 
-13.Previous Record Page
 
-![image](https://user-images.githubusercontent.com/93768389/214532354-910453a6-d03c-4ee9-9da0-4c1519f7efe1.png)
 
 
 

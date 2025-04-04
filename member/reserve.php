@@ -352,7 +352,7 @@
 											<td><?php echo$rows['date']; ?></td> &nbsp
 											 
 											<td style="text-align:center;">
-												<?php echo$rows['amount'] ?> &#x09F3</td>
+												<?php echo$rows['amount'] ?> &#8377</td>
 											</td>
 											
 										</tr>
@@ -367,7 +367,7 @@
 													<td><?php echo$rows['date']; ?></td> &nbsp
 													 
 													<td style="text-align:center;">
-														<?php echo$rows['amount'] ?> &#x09F3</td>
+														<?php echo$rows['amount'] ?> &#8377</td>
 													</td>
 												
 												</tr>

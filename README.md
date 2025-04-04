@@ -10,10 +10,7 @@ Automated Mess Management is a web-based Management System for Students, Bachelo
 ![Image](https://github.com/user-attachments/assets/98daad85-a462-43b3-8f28-b5a775095895)
 
 2.User Registration Form
-
-![image](https://user-images.githubusercontent.com/93768389/214530958-1f992f25-edf2-408f-a571-105efe492750.png)
-
-3.Manager List
+![Image](https://github.com/user-attachments/assets/4b6a4b66-acff-4930-8858-7c4f0a0fcdb1)
 
 ![image](https://user-images.githubusercontent.com/93768389/214531013-86b18968-afbd-4232-9753-f49899ad5149.png)
 

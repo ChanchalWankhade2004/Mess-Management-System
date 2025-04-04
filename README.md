@@ -7,7 +7,7 @@ Automated Mess Management is a web-based Management System for Students, Bachelo
 # Few Screenshoot
 1.Home Page 
 
-![image](C:\Users\OM\OneDrive\Pictures\Screenshots\Screenshot 2025-04-04 094414.png)
+![image](http://Users\OM\OneDrive\Pictures\Screenshots\Screenshot.png)
 
 2.User Registration Form
 

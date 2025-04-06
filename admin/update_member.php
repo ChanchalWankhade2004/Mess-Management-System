@@ -639,9 +639,14 @@
 		
 		<div class="wrp wrap3" style="background-color:#faf7eb;height:370px;"></div>
 	</div>
-	<div class="footer">
-		Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-	</div>
+	<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute;  
+    width: 100%; text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
+
+
+
 
 </body>
 

@@ -445,12 +445,11 @@
 			<p> <a href="managerlist.php" style="text-decoration:none;color:black"><img class="icon" src="img/manager.jpg">Manager List</a>  </p>
 		</div>
 	</div>
-	
-	
-	<div class="footer" style="background-color:#f4f5df;color:black; display:flex; justify-content:center;align-items:center">
-	Copyright &copy; Mess Management 2025<br> 
-</div>	
-	
+	<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute; 
+    width: 100%;  text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
 
 </body>
 

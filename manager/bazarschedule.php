@@ -422,7 +422,7 @@
 
 	<div class="container">
 		<div class="child">
-			<h3 style="text-align: center;color:#99955f;height:60px;padding-top:20px;background:white;" >Welcome To Mess Solution System</h3>
+			<h3 style="text-align: center;color:#99955f;height:60px;padding-top:20px;background:white;" >Welcome To Mess Management System</h3>
 		</div>
 		<div>
 		<?php 
@@ -531,10 +531,12 @@
     <?php	    
         	} ?>
 		</div>
-		
-		<div class="footer">
-			Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-		</div> 
+		<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute; bottom: 20px; 
+    width: 100%; height: 50px; text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
+
 
 	</div>
  

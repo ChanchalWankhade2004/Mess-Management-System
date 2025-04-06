@@ -452,9 +452,8 @@
 		</div>
 		<div class="wrp wrap3" style="background-color:#faf7eb;height:370px;"></div>
 	</div>
-	<div class="footer">
-		Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-	</div>
+
+
 
 </body>
 

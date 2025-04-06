@@ -762,8 +762,14 @@
 					</h4>
 				</div>
 
-				<div class="footer" style="background-color:#f4f5df;color:black; display:flex; justify-content:center;align-items:center">
-	Copyright &copy; Mess Management 2025<br> 
+		
+	<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute;
+    width: 100%; text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
+
+	
 </div>	
 	
 	   <?php } ?>

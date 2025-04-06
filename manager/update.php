@@ -358,7 +358,7 @@
 	<div class="photo1">
 		<img class="img1"src="img/banner.jpg"  >
 		<div class="text1"> 
-			Welcome to Mess Solution System
+			Welcome to Mess Management System
 		</div>
 	</div>
 
@@ -492,14 +492,11 @@
 		
 		
 	</div>
-	
-	<div class="footer">
-		Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-	</div>
-	  
-		  
-
-
+	<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute; bottom: 20px; 
+    width: 100%; height: 50px; text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
 
 	<script>
 		// Script to open and close sidebar

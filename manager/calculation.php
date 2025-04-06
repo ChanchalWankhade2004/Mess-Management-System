@@ -650,7 +650,7 @@
 										<td style="text-align:center;"><?php echo$row['name']; ?></td>
 										<td style="text-align:center;"><?php echo$row['phone']; ?></td>
 										
-										<td style="text-align:center;"><?php echo $rows['amount'];?> &#x09F3 </td>
+										<td style="text-align:center;"><?php echo $rows['amount'];?> &#8377 </td>
 
 									</tr>
 
@@ -711,7 +711,7 @@
 										<td ><?php echo$rows['id']; ?></td>
 										<td style="text-align:center;"><?php echo$rows['date']; ?></td>
 										<td><?php echo$rows['description']; ?></td>
-										<td style="text-align:center;"><?php echo $rows['amount'];?>&#x09F3 </td>
+										<td style="text-align:center;"><?php echo $rows['amount'];?> &#8377 </td>
 
 									</tr>
 
@@ -748,17 +748,18 @@
 
 				?>	
 					<div style="margin-left:45%;">
-						Extra Cost:<?php echo$sum2 ?> &#x09F3 <br>
-						Net Bill:&nbsp &nbsp &nbsp <?php echo$rows['net']; ?>&#x09F3 <br>
-						Khala Bill:&nbsp &nbsp<?php echo$rows['khala']; ?>&#x09F3 <br>
-						Khori Bill:&nbsp &nbsp<?php echo$rows['khori']; ?>&#x09F3 <br>
+						Extra Cost:<?php echo$sum2 ?> &#8377 <br>
+						Net Bill:&nbsp &nbsp &nbsp <?php echo$rows['net']; ?>
+						&#8377 <br>
+						Khala Bill:&nbsp &nbsp<?php echo$rows['khala']; ?>&#8377 <br>
+						Khori Bill:&nbsp &nbsp<?php echo$rows['khori']; ?>&#8377 <br>
 					</div>
 					<hr style=" margin-left:20%;margin-right:20%;text-align:left;width 50%;height:3px;color:gray;background-color:gray">
 					<div style="margin-left:39%;padding:3px;">
 						
 		
-						All Total:&nbsp <?php echo$sum3; ?> &#x09F3 <br>
-						Per person:&nbsp<?php echo$avg; ?> &#x09F3 <br><br><br>
+						All Total:&nbsp <?php echo$sum3; ?> &#8377 <br>
+						Per person:&nbsp<?php echo$avg; ?> &#8377 <br><br><br>
 					</div>
 			<?php   }?>
 				
@@ -879,12 +880,12 @@
 
 				
 	<?php	} ?>
-	
-		
+	<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute; bottom: 20px; 
+    width: 100%; height: 50px; text-align: center;">
+    Copyright &copy; Mess Management 2025
+   </div>
 
-		<div class="footer">
-			Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-		</div>
 	</div>	
 	<script>
 		// Script to open and close sidebar

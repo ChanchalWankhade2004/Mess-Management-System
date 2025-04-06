@@ -502,7 +502,7 @@
 										<tr>
 											<td><?php echo$rows['id'];?></td>
 											<td style="text-align:center;"><?php echo$rows['date']; ?></td> &nbsp
-											<td style="text-align:center;"><?php echo$rows['amount'];?> &#x09F3</td> &nbsp
+											<td style="text-align:center;"><?php echo$rows['amount'];?>&#8377</td> &nbsp
 			
 											<td style='text-align:center;'><a href=" cost_edit.php?date=<?php echo$rows['date'] ?> " ><i class='fa fa-edit cntr'  style="color:#0509f0;font-size:23px;"></i></a></td>
 											
@@ -525,16 +525,14 @@
         	} ?>
 		</div>
 		
-		<div class="footer">
-			Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-		</div> 
-
-	</div>
- 
-
+		<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute; bottom: 20px; 
+    width: 100%; height: 50px; text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
 
 
-	<script>
+    <script>
 		// Script to open and close sidebar
 		function w3_open() {
 		document.getElementById("mySidebar").style.display = "block";

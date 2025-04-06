@@ -572,18 +572,13 @@
 											<td><?php echo$id++;?></td>
 											<td style="text-align:center;"><?php echo$rows['date']; ?></td> &nbsp
 											<td> <?php echo$rows['description'] ?> </td> &nbsp
-											<td style="text-align:center;"><?php echo$rows['amount'];?> &#x09F3</td> &nbsp 
+											<td style="text-align:center;"><?php echo$rows['amount'];?> &#8377</td> &nbsp 
 											
 								</tr>
   
 								<?php   }} ?>
 								
 								
-								
-								
-								
-	
-							 
 							</tbody>
 					</table>
 				

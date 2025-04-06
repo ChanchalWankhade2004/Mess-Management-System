@@ -9,9 +9,8 @@
    if(isset($_GET["delete"]))
    {
 		$date1=$_GET["delete"];
-	   
-		$query="DELETE FROM mealcount WHERE date='$date1' ";
-		$result=$conn->query($query);
+		$query = "SELECT DISTINCT date FROM mealcount ORDER BY date ASC";
+		$result = $conn->query($query);
 		if($result){
 			$msg3="<div class='success'>
 			<span class='closebtn' onclick=\"this.parentElement.style.display='none';\">&times;</span> 
@@ -346,14 +345,11 @@
 			  <?php }?>
 		</div>
 	</div>
-	
-
-	<div class="footer" style="background-color:#f4f5df;color:black; display:flex; justify-content:center;align-items:center">
-	Copyright &copy; Mess Management 2025<br> 
-</div>	
-		  
-
-
+	<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute; bottom: 20px; 
+    width: 100%; height: 50px; text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
 
 	<script>
 		// Script to open and close sidebar

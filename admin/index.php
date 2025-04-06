@@ -333,10 +333,8 @@
 			<p> <a href="new_manager.php" style="text-decoration:none;color:white"><img class="icon" src="img/manager.png">Assign new <br> Manager</a>  </p>
 		</div>
 	</div>
-	
-	<div class="footer">
-		Copyright &copy; Boyiddha 2022.<br> Developed by Boyiddhanath Roy.
-	</div>
+</div>
+
 
 </body>
 

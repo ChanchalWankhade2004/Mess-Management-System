@@ -189,13 +189,12 @@
 		</div>
 	</div>
 	
-	
-	
+	<div class="footer" style="background-color:#f4f5df; color:black; display:flex; 
+    justify-content:center; align-items:center; position: absolute; bottom: 20px; 
+    width: 100%; height: 50px; text-align: center;">
+    Copyright &copy; Mess Management 2025
+</div>
 
-	
-	<div class="footer" style="background-color:#f4f5df;color:black; display:flex; justify-content:center;align-items:center">
-	Copyright &copy; Mess Management 2025<br> 
-</div>	
 	
 	
 	<script>
